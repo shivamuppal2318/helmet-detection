@@ -1,0 +1,8 @@
+names:
+  0: person
+  1: helmet
+nc: 2
+path: C:\Users\odckamgllan\Downloads\helmet\helmet_dataset_multi
+test: test/images
+train: train/images
+val: valid/images
